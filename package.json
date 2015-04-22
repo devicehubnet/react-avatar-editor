@@ -26,7 +26,7 @@
         ]
     },
     "peerDependencies": {
-        "react": "0.12.x"
+        "react": "0.13.x"
     },
     "devDependencies": {
         "react": "0.12.x",
@@ -35,4 +35,3 @@
         "reactify": "0.17.1"
     }
 }
-
